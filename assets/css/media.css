@@ -1,0 +1,79 @@
+@media (max-width:991px){
+    .header{
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 70vh;
+    background-position-y: 0px;
+}
+h1{
+    font-size: 30px;
+}
+.container{width: 95%;}
+.about .cont{
+    border: none !important;
+}
+
+.Portfolio ul .nav-link{
+    margin-bottom: 15px !important;
+ 
+  
+}
+.resume .col-md-6{
+    margin-bottom: 25px;
+}
+.contact  p{
+display: inline-block;
+}
+.contact .row #ppp{
+    margin: 0;
+    width: 100%;
+}
+.contact input ,.contact  textarea{
+  width: 100%;
+  margin-bottom: 15px;
+   
+}
+.contact .aa{
+margin-top: -20px;
+   
+}
+
+.map-area .con {
+    width: 33%;
+}
+.map-area .mail {
+    width: 33%;
+}
+.map-area .loc {
+    width: 33%;
+}
+.map-area .container {
+    width: 100%;
+   padding-top: 0;
+ }.map-area .container .row{
+  
+   padding: 0;
+ }
+.map-area .con p,
+.map-area .mail p,
+.map-area .loc p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+ 
+}
+
+}
+
+@media (max-width:768px){
+    .resume {
+        text-align: center;
+      
+        }
+        .resume  img {
+           
+         margin-top: 20px;
+         margin-left: 10px;
+            }
+}
